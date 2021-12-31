@@ -6,7 +6,6 @@ int main()
     int b, i = 1, sum = 0;
 
     printf("Ievadiet naturālu skaitli.");
-    fflush(stdout);
     scanf("%hhd", &a);
     b = a;
 
